@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6ae6e840.css",
+    "main.js": "/static/js/main.62757b59.js",
+    "static/media/homeicons.svg": "/static/media/homeicons.635077bdda0ab43ae14208bcfda93699.svg",
+    "static/media/imageeditor.webp": "/static/media/imageeditor.10229d99cf187a19965d.webp",
+    "static/media/avatar.jpeg": "/static/media/avatar.94e5622239eef76a53ed.jpeg",
+    "static/media/about.png": "/static/media/about.0d89b152b9d060142e14.png",
+    "static/media/logo.jpg": "/static/media/logo.ca8e6d2d265017eb8974.jpg",
+    "static/media/portfolio.webp": "/static/media/portfolio.ddf70b6e979bd02d9357.webp",
+    "static/media/bookmyshow.webp": "/static/media/bookmyshow.26093ba01b50e0d39a55.webp",
+    "index.html": "/index.html",
+    "main.6ae6e840.css.map": "/static/css/main.6ae6e840.css.map",
+    "main.62757b59.js.map": "/static/js/main.62757b59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ae6e840.css",
+    "static/js/main.62757b59.js"
+  ]
+}
